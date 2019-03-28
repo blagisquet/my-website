@@ -1,3 +1,8 @@
+This is the repository for my personal website (baptistelagisquet.fr). Work in progress, it isn't even a v1 already.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
